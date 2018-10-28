@@ -2,7 +2,7 @@
 
 ## Список стажировок
 | Компания | заметка |
-|---|---|---|
+|---|---|
 | [Yandex](https://yandex.ru/jobs/internship/) | |
 | [JetBrains](https://jetbrains.ru/students/internship/) | |
 | [Лаборатория Касперского](https://safeboard.kaspersky.ru/) | |
