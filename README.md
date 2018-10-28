@@ -1,5 +1,6 @@
 # IT-internships
 
+## Список стажировок
 | Компания | заметка |
 |---|---|---|
 | [Yandex](https://yandex.ru/jobs/internship/) | |
