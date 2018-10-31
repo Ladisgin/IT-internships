@@ -12,3 +12,4 @@
 | [Сбербанк](http://sberseasons.ru) | |
 | [Райффайзенбанк](http://raiffeisen-evolve.ru/it-block) | |
 | [Технологический Центр Дойче Банка](https://dbtc-career.ru/8/) | |
+| [BIOCAD](https://biocad.ru/forstudents/) | |
