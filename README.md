@@ -13,3 +13,4 @@
 | [Райффайзенбанк](http://raiffeisen-evolve.ru/it-block) | | |
 | [Технологический Центр Дойче Банка](https://dbtc-career.ru/8/) | Москва, Санкт-Петербург | |
 | [BIOCAD](https://biotechcommunity.ru) | Москва, Санкт-Петербург | [дополнительно](https://biocad.ru/forstudents/) |
+| [synopsys](https://www.synopsys.com/company/synopsys-careers/Internships.html) | Москва, Санкт-Петербург | |
