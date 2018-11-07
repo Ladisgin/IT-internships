@@ -15,3 +15,4 @@
 | [BIOCAD](https://biotechcommunity.ru) | Москва, Санкт-Петербург | [дополнительно](https://biocad.ru/forstudents/) |
 | [synopsys](https://www.synopsys.com/company/synopsys-careers/Internships.html) | Москва, Санкт-Петербург | |
 | [Siemens](https://w3.siemens.ru/innovations/internships/) | Москва, Санкт-Петербург | |
+| [МТС](https://it-mts-job.ru)| | |
