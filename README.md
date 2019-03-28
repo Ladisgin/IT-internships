@@ -20,3 +20,4 @@
 | [epam](https://www.epam-group.ru/careers/trainings/training-listings/training.241) | | |
 | [nexign](https://job.billing.ru/probation)| | |
 | [SAP](https://jobs.sap.com/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_department=&optionsFacetsDD_customfield3=Student&optionsFacetsDD_country=RU)| | |
+| [ЦРТ](https://www.speechpro.ru/career/internship)| | | 
